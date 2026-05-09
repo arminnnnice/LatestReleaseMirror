@@ -157,14 +157,5 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="parsaksh--spoof-tunnel"></div>
 
-### ParsaKSH--spoof-tunnel
-
-🔗 [source](https://github.com/ParsaKSH/spoof-tunnel) – [<code><small>v3.0.1</small></code>](https://github.com/ParsaKSH/spoof-tunnel/releases/tag/v3.0.1)
-
-| File | Size | Download |
-|------|------|----------|
-| `spoof-linux-amd64` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arminnnnice/LatestReleaseMirror/main/releases/ParsaKSH/spoof-tunnel/spoof-linux-amd64) |
-| `spoof-panel-linux-amd64` | 15.0 MB | [⬇️ Download](https://raw.githubusercontent.com/arminnnnice/LatestReleaseMirror/main/releases/ParsaKSH/spoof-tunnel/spoof-panel-linux-amd64) |
 <!-- RELEASES_END -->
