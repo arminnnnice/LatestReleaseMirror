@@ -4,4 +4,4 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 ParsaKSH/spoof-tunnel|linux-amd64|
-ParsaKSH/spoof-tunnel.git
+ParsaKSH/spoof-tunnel/blob/main/panel|install.sh|
