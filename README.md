@@ -165,6 +165,9 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
+| `checksums.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/arminnnnice/LatestReleaseMirror/main/releases/ParsaKSH/spoof-tunnel/checksums.txt) |
 | `spoof-linux-amd64` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arminnnnice/LatestReleaseMirror/main/releases/ParsaKSH/spoof-tunnel/spoof-linux-amd64) |
+| `spoof-linux-arm64` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arminnnnice/LatestReleaseMirror/main/releases/ParsaKSH/spoof-tunnel/spoof-linux-arm64) |
 | `spoof-panel-linux-amd64` | 15.0 MB | [⬇️ Download](https://raw.githubusercontent.com/arminnnnice/LatestReleaseMirror/main/releases/ParsaKSH/spoof-tunnel/spoof-panel-linux-amd64) |
+| `spoof-panel-linux-arm64` | 14.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arminnnnice/LatestReleaseMirror/main/releases/ParsaKSH/spoof-tunnel/spoof-panel-linux-arm64) |
 <!-- RELEASES_END -->
